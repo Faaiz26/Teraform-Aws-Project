@@ -57,8 +57,8 @@ terraform_lambda/
    cd Teraform-Aws-Project/terraform_lambda
 
 
-terraform init
-terraform validate
-terraform validate
-terraform apply -auto-approve
+terraform init,
+terraform validate,
+terraform validate,
+terraform apply -auto-approve,
 terraform destroy -auto-approve
